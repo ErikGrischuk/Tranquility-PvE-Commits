@@ -1,2 +1,2 @@
 # Tranquility-PvE-Commits
- Development changelog for Tranguility PV Rust server
+ Development changelog for Tranguility PVE Rust server
